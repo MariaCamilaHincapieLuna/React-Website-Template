@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predepoy": "npm run build",
+    "predepoy": "yarn build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
